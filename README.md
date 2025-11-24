@@ -1,1 +1,1 @@
-# gradFIRST-Seminar
+# GradFIRST-Seminar
